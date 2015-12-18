@@ -12,7 +12,7 @@ BPPROV_MODEL_DIRPATH = os.path.join(os.path.dirname(__file__), 'model')
 
 TYPE_GROUP = 'ONOS'
 
-RESOURCE_TYPES = ['ONOS-Server', ]
+RESOURCE_TYPES = ['ONOS', ]
 
 ENDPOINTS = ['rest', ]
 
@@ -20,7 +20,7 @@ SYNCHRONIZERS = ()
 
 VENDOR = 'Ciena'
 
-AUTHOR = 'Barbara Fox'
+AUTHOR = 'Barbara A. Fox'
 
 STATIC_PATHS = {
         '/images/': os.path.join(os.path.dirname(__file__), 'model/graphics/images'),

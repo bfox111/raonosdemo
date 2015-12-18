@@ -1,0 +1,19 @@
+{
+    "endpoint": "rest",
+    "type": "bpprov.runners.simple.Sequence",
+    "endpoint-parameters": {
+        "httpParams": {
+            "path": "/api/v1/tenants",
+            "kwargs": {
+                "presence": "1"
+            }
+        }
+    },
+    "out-path": [],
+    "in-path": [{
+        "type": "bpprov.translators.template.Json",
+        "parameters": {
+            "template": "tenants.tmpl"
+        }
+    }]
+}

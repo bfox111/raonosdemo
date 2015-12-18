@@ -1,0 +1,11 @@
+{
+    "endpoint": "rest",
+    "type": "bpprov.runners.simple.Sequence",
+    "endpoint-parameters": {
+        "httpParams": {
+            "path": "/onos/v1/applications"
+        }
+    },
+    "out-path": [],
+    "in-path": []
+}

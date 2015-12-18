@@ -1,0 +1,12 @@
+
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "Blue Planet REST authentication",
+    "type": "object",
+    "properties": {
+        "token": {
+            "type": "string",
+            "description": "Blue Planet authentication token"
+        }
+    },
+    "required": ["token"]
+}

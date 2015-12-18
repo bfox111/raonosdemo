@@ -1,6 +1,6 @@
 {
     "ONOS": {
-        "dir": "ONOS-Server",
-        "displayName": "ONOS-Server"
+        "dir": "ONOS",
+        "displayName": "ONOS"
     }
 }

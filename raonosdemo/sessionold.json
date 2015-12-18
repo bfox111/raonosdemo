@@ -1,0 +1,23 @@
+{
+    "authentication": {
+        "rest": {
+            "auth": {
+                "type": "rarestdemo.token.BPAuth",
+                "parameters": {
+                    "token": "988ab3194a731c4b5152"
+                }
+            },
+            "scheme": "https",
+            "httpHeaders": {}
+        }
+    },
+    "connection": {
+        "hostname": "10.88.3.238",
+        "rest": {
+            "hostport": 443
+        }
+    },
+    "id": "onos",
+    "typeGroup": "/typeGroups/ONOS",
+    "description": "Blue Planet ONOS"
+}

@@ -7,7 +7,7 @@
     "in-path": [{
         "type": "bpprov.translators.importer.JsonContents",
         "parameters": {
-            "file": "data/example-device.json"
+            "file": "data/bp-device.json"
         }
     }]
 }

@@ -1,0 +1,25 @@
+{
+    "authentication": {
+        "rest": {
+            "auth": {
+                "type": "bpprov.components.rest_auth.HttpAuth",
+                "parameters": {
+                    "path":"onos/v1/applications",
+                    "username": "karaf",
+                    "password": "karaf"
+                }
+            },
+            "scheme": "http",
+            "httpHeaders": {}
+        }
+    },
+    "connection": {
+        "hostname": "192.168.18.235",
+        "rest": {
+            "hostport": 8181
+        }
+    },
+    "id": "onos",
+    "typeGroup": "/typeGroups/ONOS",
+    "description": "Blue Planet ONOS"
+}
