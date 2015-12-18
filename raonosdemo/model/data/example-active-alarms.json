@@ -1,0 +1,41 @@
+[
+  {
+    "id": "23",
+    "meName": "Power Supply Bay 0",
+    "metype": "50000",
+    "probCause": "NA",
+    "probCauseQual": "NA",
+    "nelastSettime": "07072014 154300",
+    "nelastcleartime": "",
+    "nereportedtime": "07072014 154300",
+    "serviceaffecting": "Unknown",
+    "addtext": "Power Supply/FAN Module Missing [0]",
+    "severity": "Critical"
+    }, 
+  {
+    "id": "45",
+    "meName": "GigabitEthernet0/0/3",
+    "metype": "50000",
+    "probCause": "NA",
+    "probCauseQual": "NA",
+    "nelastSettime": "07072014 154350",
+    "nelastcleartime": "",
+    "nereportedtime": "07072014 154350",
+    "serviceaffecting": "ServiceAffecting",
+    "addtext": "Physical Port Link Down [1]",
+    "severity": "Critical"
+    },
+ {
+    "id": "56",
+    "meName": "GigabitEthernet0/0/4",
+    "metype": "50000",
+    "probCause": "NA",
+    "probCauseQual": "NA",
+    "nelastSettime": "07072014 154352",
+    "nelastcleartime": "",
+    "nereportedtime": "07072014 154352",
+    "serviceaffecting": "ServiceAffecting",
+    "addtext": "Physical Port Link Down [1]",
+    "severity": "Critical"
+  }
+]

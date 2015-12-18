@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "LayeredParameters",
+    "properties": {
+        "layer": { "$ref": "LayerRate.json" },
+        "layerInUse": { "type": "boolean" },
+        "potentialFutureSetupIndicator": { "enum": ["RSU_POINT_TO_POINT", "RSU_BROADCAST", "RSU_ANY_CONFIG"] },
+        "thisLayerActive": { "enum": ["ACTIVE", "INACTIVE"] },
+        "serviceState": { "enum": ["IN_SERVICE", "OUT_OF_SERVICE", "OUT_OF_SERVICE_BY_MAINTENANCE", "SERV_NA"] },
+        "location": { "type": "string" },
+        "alarmReporting": { "enum": ["on", "off"] }
+    },
+    "additionalProperties": false,
+    "required" : ["layer", "layerInUse", "potentialFutureSetupIndicator", "thisLayerActive", 
+        "serviceState", "location", "alarmReporting"]
+}

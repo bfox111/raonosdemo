@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "show-equipment-holders in-schema",
+    "type": "array",
+    "items": [{
+        "$ref": "models/EquipmentHolder.json"
+    }]
+}

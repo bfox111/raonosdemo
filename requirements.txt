@@ -1,0 +1,15 @@
+# once you are satisfied with the initial state of the RA, you
+# should run `make requirements` to "pin" the installed libraries
+# and their versions
+cymlrest
+bpramodels
+rasdk
+twigjack
+
+nose
+mock
+coverage
+flake
+ipdb
+bpfrelease
+gdfpm

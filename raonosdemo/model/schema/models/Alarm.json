@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "Alarm",
+    "properties": {
+        "id": { "type": "string" },
+        "meName": { "type": "string" },
+        "metype": { "type": "string" },
+        "probCause": { "type": "string" },
+        "probCauseQual": { "type": "string" },
+        "nelastSettime": { "type": "string" },
+        "nelastcleartime": { "type": "string" },
+        "nereportedtime": { "type": "string" },
+        "serviceaffecting": { "enum": ["Unknown", "ServiceAffecting", "NonServiceAffecting"] },
+        "addtext": { "type": "string" },
+        "severity": { "enum": ["Indeterminate", "NonAlarmed", "Free_Choice", "Warning",
+            "Minor", "Major", "Critical", "Cleared"] }
+    },
+    "additionalProperties": false,
+    "required": ["id", "meName", "metype", "probCause", "probCauseQual", "nelastSettime", "nelastcleartime", 
+        "nereportedtime", "serviceaffecting", "addtext", "severity"]
+}

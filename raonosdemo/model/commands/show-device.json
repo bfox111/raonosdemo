@@ -1,0 +1,13 @@
+{
+    "endpoint": "null",
+    "type": "bpprov.runners.simple.Sequence",
+    "out-path": [
+    ],
+    "in-schema": "in-show-device.json",
+    "in-path": [{
+        "type": "bpprov.translators.importer.JsonContents",
+        "parameters": {
+            "file": "data/example-device.json"
+        }
+    }]
+}

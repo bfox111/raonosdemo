@@ -1,0 +1,9 @@
+{
+    "ONOS": {
+        "family": "ONOS-Server",
+        "dir": "onos/ONOS-Server1",
+        "version": [
+            "0.0.0.1"
+        ]
+    }
+}

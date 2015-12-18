@@ -1,0 +1,31 @@
+{
+    "type": "bpprov.runners.simple.Event",
+    "tests": [
+        "commands/tests/snmp-trap.json"
+    ],
+    "endpoint-parameters": {},
+    "in-path": [{
+        "type": "bpprov.translators.snmp.OidString",
+        "parameters": {
+            "filemap": "oidmap.json"
+        }
+    }, {
+        "type": "bpprov.translators.list.ToNestedDict",
+        "parameters": {}
+    }, {
+        "type": "bpprov.translators.route.Case",
+        "parameters": {
+            "field": "${snmpTrapOID}",
+            "choice": {
+                "1.3.6.1.4.1.2021.251.1": {
+                    "type": "bpprov.translators.branch.RunnerCommand",
+                    "parameters": { "command": "traps/test-trap.json" }
+                }
+            },
+            "otherwise": {
+                "type": "bpprov.translators.importer.JsonContents",
+                "parameters": { "file": "data/trap-ignore.json" }
+            }
+        }
+    }]
+}

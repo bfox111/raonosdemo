@@ -1,0 +1,24 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "show-equipment-holders in-schema",
+    "type": "object",
+    "properties": {
+        "userLabel": { "type": "string" },
+        "acceptableEquipmentTypeList": { "type": "array", "items": [{"type": "string"}] },
+        "name": { "type": "string" },
+        "id": { "type": "string" },
+        "alarmStatus": { "$ref": "AlarmStatus.json" },
+        "holderState": { "enum": ["MISMATCH_OF_INSTALLED_AND_EXPECTED", "UNAVAILABLE", "UNKNOWN", "EXPECTED_AND_NOT_INSTALLED", "INSTALLED_AND_NOT_EXPECTED", "INSTALLED_AND_EXPECTED", "EMPTY"] },
+        "alarmReportingIndicator": { "type": "boolean" },
+        "owner": { "type": "string" },
+        "holderType": { "enum": ["slot", "sub_slot", "shelf", "sub_shelf", "rack"] },
+        "containingEquipment": { "$ref": "NullableRef.json" },
+        "expectedOrInstalledEquipment": { "$ref": "NullableRef.json" },
+        "nativeEMSName": { "type": "string" }
+    },
+    "additionalProperties": false,
+    "required": [
+        "userLabel", "acceptableEquipmentTypeList", "name", "id", "alarmStatus", 
+        "holderState", "alarmReportingIndicator", "owner", "holderType",
+        "containingEquipment", "expectedOrInstalledEquipment", "nativeEMSName"]
+}

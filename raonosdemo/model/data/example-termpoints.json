@@ -1,0 +1,1361 @@
+[
+  {
+    "userLabel": "GigabitEthernet 0/2/0",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-0",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-0",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/1",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-1",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-1",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/2",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-2",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-2",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/3",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-3",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-3",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/4",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-4",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-4",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/5",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-5",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-5",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/6",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-6",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-6",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/2/7",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-2-7",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-2-7",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/0",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-0",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-0",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/1",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-1",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-1",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/2",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-2",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-2",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/3",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-3",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-3",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/4",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-4",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-4",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/5",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-5",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-5",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/6",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-6",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-6",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "GigabitEthernet 0/4/7",
+    "direction": "D_NA",
+    "name": "GigabitEthernet-0-4-7",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_CLIENT_ERP",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "id": "GigabitEthernet-0-4-7",
+    "tpMappingMode": "TM_NA"
+  },
+  {
+    "userLabel": "TenGigabitEthernet 0/3/0",
+    "direction": "D_NA",
+    "name": "TenGigabitEthernet-0-3-0",
+    "id": "TenGigabitEthernet-0-3-0",
+    "alarmStatus": "Indeterminate",
+    "containedCTPs": [],
+    "transmissionParams": [
+      {
+        "layer": "LR_PHYSICAL_OPTICAL",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_OPTICAL_SECTION",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_Optical_Channel",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_10Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "ACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      },
+      {
+        "layer": "LR_DSR_Gigabit_Ethernet",
+        "layerInUse": true,
+        "potentialFutureSetupIndicator": "RSU_POINT_TO_POINT",
+        "thisLayerActive": "INACTIVE",
+        "serviceState": "IN_SERVICE",
+        "location": "",
+        "alarmReporting": "on"
+      }
+    ],
+    "serviceState": "OUT_OF_SERVICE",
+    "oids": [],
+    "connectionState": "NA",
+    "adminState": "AdminAutoInService",
+    "owner": "",
+    "nativeEmsName": "",
+    "type": "TPT_PTP",
+    "tpMappingMode": "TM_NA"
+  }
+]

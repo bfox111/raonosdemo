@@ -1,0 +1,10 @@
+# This file allows you to install python libraries you are developing
+# into the docker image.
+# The libraries should installed as editable (-e passed)
+# the editable library is typically cloned under a .src directory first
+# e.g. `git clone https/github.cyanoptics.com/rasdk/cymlrest.git .src/cymlrest`
+# next you want to make a docker image with the library installed so you add
+# the requirments line to this file.
+# e.g. `-e .src/cymlrest`
+# now run `make image-dev` to make a docker image which with install
+# that library such that it is still editable in your development environment

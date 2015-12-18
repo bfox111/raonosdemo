@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "Equipment",
+    "type": "object",
+    "properties": {
+        "userLabel": { "type": "string" },
+        "containingEquipmentHolder": { "$ref": "Ref.json" },
+        "name": { "type": "string" },
+        "id": { "type": "string" },
+        "alarmStatus": { "$ref": "AlarmStatus.json" },
+        "installedEquipmentObjectType": { "type": "string" },
+        "installedVersion": { "type": "string" },
+        "supportedTps": { "type": "array", "items": [{"$ref": "Ref.json"}] },
+        "alarmReportingIndicator": { "type": "boolean" },
+        "serviceState": { "enum": ["OUT_OF_SERVICE_BY_MAINTENANCE", "SERV_NA", "OUT_OF_SERVICE", "IN_SERVICE"] },
+        "owner": { "type": "string" },
+        "installedSerialNumber": { "type": "string" },
+        "installedPartNumber": { "type": "string" },
+        "expectedEquipmentObjectType": { "type": "string" },
+        "containedEquipmentHolders": { "type": "array", "items": [{"$ref": "Ref.json"}] },
+        "nativeEMSName": { "type": "string" }
+    },
+    "additionalProperties": false,
+    "required": [
+        "userLabel", "containingEquipmentHolder", "name", "id", "alarmStatus", 
+        "installedEquipmentObjectType", "installedVersion", "supportedTps", "alarmReportingIndicator",
+        "serviceState", "owner", "installedSerialNumber", "installedPartNumber", "expectedEquipmentObjectType",
+        "containedEquipmentHolders", "nativeEMSName"]
+}

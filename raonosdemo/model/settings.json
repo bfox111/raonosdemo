@@ -1,0 +1,33 @@
+{
+    "manhole": {
+        "active": true,
+        "port": 9997,
+        "multiport": true
+    },
+    "test": {
+        "endpoints": {
+            "cli": {
+                "type": "bpprov.components.cli.CliEndpoint",
+                "parameters": {
+                    "hostname": "h1",
+                    "hostport": 1,
+                    "username": "u1",
+                    "password": "p1",
+                    "prompt": ">",
+                    "transport": "bpprov.components.cli_transport.TestTransport"
+                }
+            },
+            "snmp": {
+                "type": "bpprov.components.snmp.SnmpEndpoint",
+                "parameters": {
+                    "hostname": "h",
+                    "hostport": 1,
+                    "community": "public",
+                    "version": "v2c",
+                    "trapCommand": "snmp-trap.json",
+                    "transport": "bpprov.components.snmp.Direct"
+                }
+            }
+        }
+    }
+}

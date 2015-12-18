@@ -1,0 +1,15 @@
+.git
+.gitignore
+env
+.src
+.coverage
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*.swp
+*/*.swp
+*/*/*.swp
+*/*/*/*.swp
+*.egg-info
+dist

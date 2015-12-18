@@ -1,0 +1,72 @@
+[
+  {
+    "userLabel": "",
+    "acceptableEquipmentTypeList": [],
+    "name": "0",
+    "id": "0",
+    "alarmStatus": "Indeterminate",
+    "holderState": "INSTALLED_AND_EXPECTED",
+    "alarmReportingIndicator": false,
+    "owner": "",
+    "holderType": "shelf",
+    "containingEquipment": null,
+    "expectedOrInstalledEquipment": "0",
+    "nativeEMSName": ""
+  },
+  {
+    "userLabel": "",
+    "acceptableEquipmentTypeList": [],
+    "name": "0-1",
+    "id": "0-1",
+    "alarmStatus": "Indeterminate",
+    "holderState": "INSTALLED_AND_EXPECTED",
+    "alarmReportingIndicator": false,
+    "owner": "",
+    "holderType": "slot",
+    "containingEquipment": "0",
+    "expectedOrInstalledEquipment": "0-1",
+    "nativeEMSName": ""
+  },
+  {
+    "userLabel": "",
+    "acceptableEquipmentTypeList": [],
+    "name": "0-2",
+    "id": "0-2",
+    "alarmStatus": "Indeterminate",
+    "holderState": "INSTALLED_AND_EXPECTED",
+    "alarmReportingIndicator": false,
+    "owner": "",
+    "holderType": "slot",
+    "containingEquipment": "0",
+    "expectedOrInstalledEquipment": "0-2",
+    "nativeEMSName": ""
+  },
+  {
+    "userLabel": "",
+    "acceptableEquipmentTypeList": [],
+    "name": "0-3",
+    "id": "0-3",
+    "alarmStatus": "Indeterminate",
+    "holderState": "INSTALLED_AND_EXPECTED",
+    "alarmReportingIndicator": false,
+    "owner": "",
+    "holderType": "slot",
+    "containingEquipment": "0",
+    "expectedOrInstalledEquipment": "0-3",
+    "nativeEMSName": ""
+  },
+  {
+    "userLabel": "",
+    "acceptableEquipmentTypeList": [],
+    "name": "0-4",
+    "id": "0-4",
+    "alarmStatus": "Indeterminate",
+    "holderState": "INSTALLED_AND_EXPECTED",
+    "alarmReportingIndicator": false,
+    "owner": "",
+    "holderType": "slot",
+    "containingEquipment": "0",
+    "expectedOrInstalledEquipment": "0-4",
+    "nativeEMSName": ""
+  }
+]

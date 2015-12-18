@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "TerminationPoint",
+    "properties": {
+        "userLabel": { "type": "string" },
+        "direction": { "enum": ["D_NA", "D_SOURCE", "D_BIDIRECTIONAL", "D_SINK"] },
+        "name": { "type": "string" },
+        "id": { "type": "string" },
+        "alarmStatus": { "$ref": "AlarmStatus.json" },
+        "containedCTPs": { "type": "array", "items": [{"$ref": "Ref.json"}] },
+        "transmissionParams": { "type": "array", "items": [{"$ref": "LayeredParameters.json"}] },
+        "serviceState": { "enum": ["OUT_OF_SERVICE_BY_MAINTENANCE", "SERV_NA", "OUT_OF_SERVICE", 
+            "IN_SERVICE"] },
+        "oids": { "type": "array", "items": [{"$ref": "OidEntry.json"}] },
+        "connectionState": { "enum": ["NA", "SOURCE_CONNECTED", "SINK_CONNECTED", "BI_CONNECTED",
+            "NOT_CONNECTED", "SOURCE_RESERVED", "SINK_RESERVED", "BI_RESERVED"] },
+        "adminState": { "enum": ["AdminLockedMat", "AdminUnlocked", "AdminAutoInService", "AdminLockedDis"] },
+        "owner": { "type": "string" },
+        "nativeEmsName": { "type": "string" },
+        "type": { "enum": ["TPT_PTP", "TPT_CTP", "TPT_TPPool", "TPT_FTP"] },
+        "tpMappingMode": { "enum": ["TM_TERMINATED_AND_AVAILABLE_FOR_MAPPING", "TM_NA", 
+            "TM_NEITHER_TERMINATED_NOR_AVAILABLE_FOR_MAPPING"] }
+    },
+    "additionalProperties": false,
+    "required": [
+        "userLabel", "direction", "name", "id", "alarmStatus", 
+        "containedCTPs", "transmissionParams", "serviceState", "oids", "connectionState", 
+        "adminState", "owner", "nativeEmsName", "type", "tpMappingMode"]
+}

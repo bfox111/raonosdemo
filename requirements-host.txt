@@ -1,0 +1,7 @@
+nose
+mock
+coverage
+flake
+ipdb
+bpfrelease
+gdfpm
